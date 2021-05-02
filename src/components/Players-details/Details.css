@@ -1,0 +1,41 @@
+.card img{
+   border-radius: 50%;
+   height: 70%;
+   margin-right: 50px;
+    
+}
+.card{
+    display: flex;
+    height: 280px;
+    margin: 20px;
+    width: 80%;
+    border-radius: 19px;
+    overflow: hidden;
+    background-color: #5c7081;
+    padding: 20px;
+    box-shadow:
+        inset 0 -3em 3em rgba(0,0,0,0.1),
+              0 0  0 2px rgb(255,255,255),
+              0.3em 0.3em 1em rgba(0,0,0,0.3);
+  
+}
+.card .card-body{
+   
+    color: white;
+    margin-right: 15px;
+}
+
+button{
+    background-color: #72147E;
+    width: 135px;
+    height: 32px;
+    color: honeydew;
+    border: 2px solid slategray;
+    border-radius: 5px;
+   
+}
+.icon{
+   
+    font-size: 15px;
+    padding:1px
+}
